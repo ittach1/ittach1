@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome, *traveler*, to my humble abode on the digital realm. I'm Subbu, an ancient wanderer in the vast landscape of code and technology. 👨‍💻 👩‍💻
+Welcome, *traveler*, to my humble abode on the digital realm. I'm an ancient wanderer in the vast landscape of code and technology. 👨‍💻 👩‍💻
 
 ⚔️I am a red-teamer and a security professional, much like an ancient warrior. My expertise lies in the art of battle, using my knowledge of security vulnerabilities to infiltrate and test the defenses of organizations. I think like an attacker, and use my skills to identify and exploit weaknesses in the systems.⚔️
 
